@@ -1,5 +1,6 @@
 # c2cproject
 
+->c2c is a personal loan applying website where user can ask for other users for a personal loans.
 ->Our personal loan requirements are minimal and concise. 
 ->To apply for a personal loan, all you need are a few documents. 
 ->There’s no heavy paperwork involved. Please note that the personal loan documents for salaried and self-employed individuals differ from each other. 
